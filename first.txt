@@ -1,2 +1,7 @@
 this is my first file
 no one reads readme
+<<<<<<< HEAD
+i'm inserted new line here in the develop branch
+=======
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+>>>>>>> feature/new-feature
